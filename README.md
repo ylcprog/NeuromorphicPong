@@ -1,11 +1,9 @@
-# NeuromorphicPong
-Python framework for building a neuromorphic model based on Nengo for playing a modified Pong game aimed at evaluating executive functions
 
 
-<h1 align="center">NeuromorphicPong</h1>
-<p align="center">Simulate advanced cognitive functions and evaluate executive control through a Nengo-powered neuromorphic AI playing a dynamic Pong game.</p>
+<h1>NeuromorphicPong</h1>
+<p>Simulate advanced cognitive functions and evaluate executive control through a Nengo-powered neuromorphic AI playing a dynamic Pong game.</p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
 </p>
